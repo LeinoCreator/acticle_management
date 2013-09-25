@@ -1,3 +1,6 @@
 == bundle
 == rake db:migrate
 == rails s
+
+2013-09-25
+实现用户登录、首页、博客的CURD
